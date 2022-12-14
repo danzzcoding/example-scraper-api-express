@@ -1,3 +1,3 @@
 # Example api with express js
-From module: @danzzcoding/danzz-api
-https://github.com/Danzzxcodes/api
+From module: @danzzcoding/api
+https://github.com/danzzcoding/api
